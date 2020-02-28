@@ -1,6 +1,5 @@
 // Jace Laquerre
-// CS 224
-// Assignment 6
+
 
 import java.io.*;
 import java.util.*;
