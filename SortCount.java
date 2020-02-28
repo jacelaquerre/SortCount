@@ -1,5 +1,5 @@
 // Jace Laquerre
-
+// Sort-And-Count and Merge-and-Count methods to count inversions from an array taken from a .txt file
 
 import java.io.*;
 import java.util.*;
